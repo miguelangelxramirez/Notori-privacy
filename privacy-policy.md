@@ -37,4 +37,4 @@ Notori shares data only with the processors described above when needed to provi
 
 ## 7. Your choices and contact
 
-You can stop using Notori, manage subscriptions through Apple, export your notes, delete your data from Settings, and manage iCloud sync from system settings. Stopping use does not change the retention periods described above. For privacy requests or questions, use the support contact linked from Notori’s App Store page. This notice should be read together with the public privacy policy for your country or region.
+You can stop using Notori, manage subscriptions through Apple, export your notes, delete your data from Settings, and manage iCloud sync from system settings. Stopping use does not change the retention periods described above. For privacy requests or questions, email [miguelangelxramirez@gmail.com](mailto:miguelangelxramirez@gmail.com) (also the support contact linked from Notori’s App Store page). This notice should be read together with the public privacy policy for your country or region.

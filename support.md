@@ -29,7 +29,7 @@ With iCloud turned on, your notes sync through your own private iCloud to your o
 
 ## Contact and privacy requests
 
-For support, questions or privacy requests, contact the developer through his public profile on X: [@miguelangelxram](https://x.com/miguelangelxram). This is the same support contact linked from Notori's App Store page. Please do not send passwords or the contents of your notes.
+For support, questions or privacy requests, email the developer at [miguelangelxramirez@gmail.com](mailto:miguelangelxramirez@gmail.com). You can also reach him through his public profile on X: [@miguelangelxram](https://x.com/miguelangelxram). Please do not send passwords or the contents of your notes.
 
 ## More information
 

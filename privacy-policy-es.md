@@ -37,4 +37,4 @@ Notori solo comparte datos con los encargados descritos arriba cuando sea necesa
 
 ## 7. Tus opciones y contacto
 
-Puedes dejar de usar Notori, gestionar suscripciones mediante Apple, exportar tus notas, borrar tus datos desde Ajustes y gestionar la sincronización con iCloud desde los ajustes del sistema. Dejar de usar la app no cambia los plazos de conservación descritos arriba. Para solicitudes de privacidad o preguntas, utiliza el contacto de soporte enlazado en la ficha de Notori en App Store. Este aviso debe leerse junto con la política de privacidad pública aplicable en tu país o región.
+Puedes dejar de usar Notori, gestionar suscripciones mediante Apple, exportar tus notas, borrar tus datos desde Ajustes y gestionar la sincronización con iCloud desde los ajustes del sistema. Dejar de usar la app no cambia los plazos de conservación descritos arriba. Para solicitudes de privacidad o preguntas, escribe a [miguelangelxramirez@gmail.com](mailto:miguelangelxramirez@gmail.com) (también el contacto de soporte enlazado en la ficha de Notori en App Store). Este aviso debe leerse junto con la política de privacidad pública aplicable en tu país o región.
