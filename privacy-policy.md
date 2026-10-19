@@ -46,7 +46,7 @@ Providing this data is a contractual requirement: it is needed to use Notori and
 ## 8. Recipients and processors
 
 - Cloudflare, Inc. (USA), processor: hosts Notori’s Worker, its EU storage and its technical logs.
-- OpenAI, processor: processes the content described above with AI.
+- OpenAI Ireland Ltd (Ireland), processor: processes the content described above with AI.
 - RevenueCat, Inc. (USA), processor: manages subscriptions.
 - Apple: processor for iCloud (CloudKit), where it stores and syncs your notes as explained in section 2. It also processes App Store payments, App Attest verification and backups under its own terms and privacy policy. Notori includes no third-party analytics or crash-reporting tools; if you turn on sharing analytics with app developers on your device, Apple may provide the developer with crash and performance reports.
 - The websites of the links you save, as explained in section 4.
@@ -55,7 +55,7 @@ Notori shares data with them only when needed to provide the service, protect it
 
 ## 9. International transfers
 
-Cloudflare, OpenAI and RevenueCat are US companies and may process data outside the European Economic Area. Cloudflare is certified under the EU-U.S. Data Privacy Framework, which is covered by a European Commission adequacy decision (Art. 45 GDPR), and its data processing agreement also includes standard contractual clauses. OpenAI and RevenueCat are not listed under that Framework; their transfers rely on the standard contractual clauses approved by the European Commission and included in their data processing agreements (Art. 46(2)(c) GDPR). Apple may also process what Notori stores in iCloud (CloudKit) outside the European Economic Area; for those transfers, the Apple Developer Program License Agreement provides for standard contractual clauses (“Model Contract Clauses”), which Apple makes available on request. You can ask for information about these safeguards at the contact address.
+Cloudflare and RevenueCat are US companies and may process data outside the European Economic Area. Notori uses OpenAI under a contract with OpenAI Ireland Ltd (Ireland), which may transfer data to companies in its group and to other providers outside the European Economic Area. Cloudflare is certified under the EU-U.S. Data Privacy Framework, which is covered by a European Commission adequacy decision (Art. 45 GDPR), and its data processing agreement also includes standard contractual clauses. OpenAI and RevenueCat are not listed under that Framework. RevenueCat’s transfers rely on the standard contractual clauses approved by the European Commission and included in its data processing agreement (Art. 46(2)(c) GDPR). Under OpenAI’s data processing agreement, OpenAI Ireland makes its transfers on the basis of agreements containing those clauses or of a European Commission adequacy decision (Art. 46(2)(c) and Art. 45 GDPR). Apple may also process what Notori stores in iCloud (CloudKit) outside the European Economic Area; for those transfers, the Apple Developer Program License Agreement provides for standard contractual clauses (“Model Contract Clauses”), which Apple makes available on request. You can ask for information about these safeguards at the contact address.
 
 ## 10. Retention and deletion
 
