@@ -13,11 +13,11 @@ Notori is a note-taking app with AI. Your notes are stored on your device and, i
 
 ## 1. Controller and contact
 
-The data controller is the developer of Notori, who publishes the app on the App Store. For any privacy question or request, email [miguelangelxramirez@gmail.com](mailto:miguelangelxramirez@gmail.com) (also the support contact linked from Notori’s App Store page).
+The data controller is Miguel Ángel Ramírez Ciarreta, an individual and the developer of Notori, with Spanish tax ID (NIF) 02309978L and address at Calle Salvador Martínez 30, 28041 Madrid, Spain. For any privacy question or request, email [miguelangelxramirez@gmail.com](mailto:miguelangelxramirez@gmail.com) (also the support contact linked from Notori’s App Store page). I am not registered in the Spanish Commercial Registry (Registro Mercantil) and do not adhere to any codes of conduct.
 
 ## 2. Data stored on your device and in iCloud
 
-Your notes, links, attached photos and files with their recognised text, edits, and derived topics and relationships are stored in Notori’s private app or App Group container. When iCloud is available, Notori syncs this database with your private iCloud (CloudKit) database, so it can appear on your other devices signed in with the same Apple Account. That copy sits in your own iCloud account under Apple’s terms; Notori does not operate an account or a server for it and cannot read it. The local search index, settings, record of your acceptance of the AI notice and its version, widget snapshot and the queue of pending AI jobs stay only on the device and are not synced. To stop syncing, turn off iCloud for Notori in your device’s system iCloud settings; copies already stored in iCloud remain until you delete them there. Apple may also include app data in device backups according to your iCloud or backup settings.
+Your notes, links, attached photos and files with their recognised text, edits, and derived topics and relationships are stored in Notori’s private app or App Group container. When iCloud is available, Notori syncs this database with your private iCloud (CloudKit) database, so it can appear on your other devices signed in with the same Apple Account. For what Notori stores in CloudKit, Apple acts as a processor (the developer’s agent) under the Apple Developer Program License Agreement (Attachment 4, §3.6); under the same agreement (§3.5), Apple does not access the data in a private container except where required by law or at your request. Notori does not operate an account or a server for that copy and cannot read it. Your iCloud account itself is managed by Apple Distribution International Ltd. (Ireland) as controller, under the iCloud Terms and Conditions and Apple’s Privacy Policy. The local search index, settings, record of your acceptance of the AI notice and its version, widget snapshot and the queue of pending AI jobs stay only on the device and are not synced. To stop syncing, go to Settings → your name → iCloud, tap See All next to Saved to iCloud and turn off Notori; copies already stored in iCloud remain until you delete them, as explained in section 10. Apple may also include app data in device backups according to your iCloud or backup settings.
 
 ## 3. AI processing
 
@@ -48,14 +48,14 @@ Providing this data is a contractual requirement: it is needed to use Notori and
 - Cloudflare, Inc. (USA), processor: hosts Notori’s Worker, its EU storage and its technical logs.
 - OpenAI, processor: processes the content described above with AI.
 - RevenueCat, Inc. (USA), processor: manages subscriptions.
-- Apple: processes App Store payments, App Attest verification, iCloud and backups under its own terms and privacy policy. Notori includes no third-party analytics or crash-reporting tools; if you turn on sharing analytics with app developers on your device, Apple may provide the developer with crash and performance reports.
+- Apple: processor for iCloud (CloudKit), where it stores and syncs your notes as explained in section 2. It also processes App Store payments, App Attest verification and backups under its own terms and privacy policy. Notori includes no third-party analytics or crash-reporting tools; if you turn on sharing analytics with app developers on your device, Apple may provide the developer with crash and performance reports.
 - The websites of the links you save, as explained in section 4.
 
 Notori shares data with them only when needed to provide the service, protect it, comply with law or complete a transaction. Notori does not sell personal data.
 
 ## 9. International transfers
 
-Cloudflare, OpenAI and RevenueCat are US companies and may process data outside the European Economic Area. Cloudflare is certified under the EU-U.S. Data Privacy Framework, which is covered by a European Commission adequacy decision (Art. 45 GDPR), and its data processing agreement also includes standard contractual clauses. OpenAI and RevenueCat are not listed under that Framework; their transfers rely on the standard contractual clauses approved by the European Commission and included in their data processing agreements (Art. 46(2)(c) GDPR). You can ask for information about these safeguards at the contact address.
+Cloudflare, OpenAI and RevenueCat are US companies and may process data outside the European Economic Area. Cloudflare is certified under the EU-U.S. Data Privacy Framework, which is covered by a European Commission adequacy decision (Art. 45 GDPR), and its data processing agreement also includes standard contractual clauses. OpenAI and RevenueCat are not listed under that Framework; their transfers rely on the standard contractual clauses approved by the European Commission and included in their data processing agreements (Art. 46(2)(c) GDPR). Apple may also process what Notori stores in iCloud (CloudKit) outside the European Economic Area; for those transfers, the Apple Developer Program License Agreement provides for standard contractual clauses (“Model Contract Clauses”), which Apple makes available on request. You can ask for information about these safeguards at the contact address.
 
 ## 10. Retention and deletion
 
