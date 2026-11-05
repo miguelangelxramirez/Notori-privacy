@@ -5,7 +5,7 @@ permalink: /privacy-policy-es/
 
 # Política de privacidad de Notori
 
-Actualizado el 25 de octubre de 2026
+Actualizado el 5 de noviembre de 2026
 
 ## Privacidad de un vistazo
 
@@ -33,7 +33,7 @@ Notori crea un identificador aleatorio y persistente de instalación, guardado e
 
 ## 6. Compras
 
-Apple procesa la información de pago. RevenueCat recibe un identificador anónimo y persistente de usuario de la app, el estado de suscripción y compra, y el idioma y la moneda de la tienda, para que Notori pueda ofrecer, restaurar y gestionar el acceso Premium y la prueba gratuita, analizar la fiabilidad de las compras y prevenir fraude. Notori no recibe los datos completos de tu tarjeta. Estos datos no se usan para seguimiento publicitario.
+Apple procesa la información de pago. RevenueCat recibe un identificador anónimo y persistente de usuario de la app, el estado de suscripción y compra, y el idioma y la moneda de la tienda, para que Notori pueda ofrecer, restaurar y gestionar el acceso Premium y la prueba gratuita, analizar la fiabilidad de las compras y prevenir fraude. Notori no recibe los datos completos de tu tarjeta. Estos datos no se usan para seguimiento publicitario. Atribución de Apple Ads: RevenueCat recibe el token de atribución de Apple Ads (AdServices) para medir qué campañas de Apple Ads generan instalaciones y suscripciones. Apple genera ese token; RevenueCat lo usa solo para pedir a Apple los datos de atribución de tu instalación y guarda lo que Apple devuelve. No se usa para rastreo entre apps y no requiere el permiso de seguimiento App Tracking Transparency (ATT).
 
 ## 7. Finalidades y bases jurídicas
 
