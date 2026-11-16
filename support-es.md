@@ -29,7 +29,7 @@ Con iCloud activado, tus notas se sincronizan con tus otros dispositivos a trav�
 
 ## Contacto y solicitudes de privacidad
 
-Para soporte, dudas o solicitudes de privacidad, escribe al desarrollador a [miguelangelxramirez@gmail.com](mailto:miguelangelxramirez@gmail.com). También puedes contactarle por su perfil público de X: [@miguelangelxram](https://x.com/miguelangelxram). Por favor, no envíes contraseñas ni el contenido de tus notas.
+Para soporte, dudas o solicitudes de privacidad, escribe al desarrollador a [miguelangel@notori.app](mailto:miguelangel@notori.app). También puedes contactarle por su perfil público de X: [@miguelangelxram](https://x.com/miguelangelxram). Por favor, no envíes contraseñas ni el contenido de tus notas.
 
 ## Más información
 
