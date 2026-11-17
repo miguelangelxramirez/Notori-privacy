@@ -5,7 +5,7 @@ permalink: /privacy-policy-es/
 
 # Política de privacidad de Notori
 
-Actualizado el 16 de noviembre de 2026
+Actualizado el 17 de noviembre de 2026
 
 ## Privacidad de un vistazo
 
@@ -69,6 +69,14 @@ Tienes derecho a acceder a tus datos, rectificarlos, suprimirlos, limitar su tra
 
 Notori no está dirigido a niños. No uses Notori si no tienes la edad mínima que exige la ley de tu país para aceptar por ti mismo el tratamiento de tus datos (en España, 14 años).
 
-## 13. Cambios en esta política
+## 13. Estadísticas anónimas de uso
+
+Notori envía algunos recuentos anónimos de uso solo si lo eliges. Están apagados hasta que eliges. Si nunca has elegido, se activan al pulsar el primer botón de la pantalla de bienvenida, bajo el cual una línea indica que al continuar aceptas las estadísticas anónimas de uso. Hasta entonces, los eventos solo se guardan en la memoria de la app: salen al aceptar y se descartan si cierras la app sin aceptar. Un apagado que hayas guardado se respeta siempre. Puedes apagarlas en cualquier momento en Ajustes, en «Estadísticas anónimas de uso».
+
+Cuando están encendidas, la app envía solo nombres de pasos y acciones: abrir la app (como mucho una vez al día); cada paso del onboarding visto, saltado o terminado; ver la pantalla de suscripción y desde dónde se abrió (onboarding, puerta de acceso o Ajustes); elegir un plan, iniciar una compra, completarla o fallarla; restaurar compras, con su resultado; guardar una nota, indicando solo su tipo (texto, foto, enlace o archivo); hacer una búsqueda; hacer una pregunta; y recibir una respuesta con cita. Cada evento lleva solo su nombre, ese parámetro, la versión de la app y el idioma de la app. Nunca lleva texto de notas, preguntas, respuestas, enlaces, fotos, nombres de archivo, precios ni ningún identificador tuyo o de tu dispositivo. La petición no lleva identificador de instalación ni de usuario, ni hora: el servidor pone el día en UTC. Como cualquier conexión a internet, el servicio recibe tu dirección IP y las cabeceras técnicas, que el Worker no guarda junto a estos recuentos.
+
+El servidor solo guarda totales diarios por evento, versión de la app e idioma, sin identificador, hora, IP ni contenido, durante 25 meses; después se borran automáticamente. Cloudflare aloja estos contadores en la Unión Europea. La finalidad es entender qué pasos de la app se usan y dónde se abandona. Base jurídica: tu consentimiento (artículo 6.1.a del RGPD), que puedes retirar en cualquier momento apagando el ajuste, sin afectar a lo tratado antes. Estos recuentos no se vinculan a tus notas, tus preguntas ni tus peticiones de IA, y no te identifican.
+
+## 14. Cambios en esta política
 
 Si esta política cambia, se actualizará la fecha de arriba. Esta misma política está publicada en <https://miguelangelxramirez.github.io/Notori-privacy/>.

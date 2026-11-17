@@ -5,7 +5,7 @@ permalink: /privacy-policy/
 
 # Notori Privacy Policy
 
-Updated 16 November 2026
+Updated 17 November 2026
 
 ## Privacy at a glance
 
@@ -69,6 +69,14 @@ You have the right to access, rectify and erase your data, to restrict its proce
 
 Notori is not directed at children. Do not use Notori if you are under the minimum age your country’s law requires to accept the processing of your data yourself (14 in Spain).
 
-## 13. Changes to this policy
+## 13. Anonymous usage statistics
+
+Notori sends a few anonymous usage counts only if you choose to. They are off until you choose. If you have never chosen, they turn on when you press the first button of the welcome screen, under which a line says that by continuing you accept anonymous usage statistics. Until then, events are kept only in the app’s memory: they are sent when you accept and discarded if you close the app without accepting. A setting you have saved as off is always respected. You can turn them off at any time in Settings, under “Anonymous usage statistics”.
+
+When they are on, the app sends only the names of steps and actions: opening the app (at most once a day); each onboarding step seen, skipped or completed; viewing the subscription screen and where it was opened from (onboarding, the access gate or Settings); choosing a plan, starting a purchase, a completed purchase or a failed one; restoring purchases, with the result; saving a note, with only its type (text, photo, link or file); running a search; asking a question; and receiving an answer with a citation. Each event carries only its name, that parameter, the app version and the app language. It never carries note text, questions, answers, links, photos, file names, prices or any identifier of yours or your device. The request carries no installation or user identifier and no time of day; the server sets the day in UTC. As with any internet connection, the service receives your IP address and technical headers, which the Worker does not store with these counts.
+
+The server keeps only daily totals per event, app version and language, with no identifier, time, IP address or content, for 25 months, and then deletes them automatically. Cloudflare hosts these counters in the European Union. The purpose is to understand which steps of the app are used and where people stop. Legal basis: your consent (Art. 6(1)(a) GDPR), which you can withdraw at any time by turning the setting off, without affecting earlier processing. These counts are not linked to your notes, your questions or your AI requests, and they do not identify you.
+
+## 14. Changes to this policy
 
 If this policy changes, the date above will be updated. This same policy is published at <https://miguelangelxramirez.github.io/Notori-privacy/>.
